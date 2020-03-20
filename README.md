@@ -1,6 +1,7 @@
 # Flix
 ## Flix Part 2
 
+<<<<<<< HEAD
 ### User Stories
 
 #### REQUIRED (10pts)
@@ -17,9 +18,7 @@
 - [x] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [x] Add a rounded corners for the images using the Glide transformations. (1 point)
 
-### App Walkthough GIF
-
-<img src="Walkthrough.gif" width=250><br>
+<img src="Walkthough.gif" width=250><br>
 
 ### Notes
 
@@ -28,6 +27,9 @@ Describe any challenges encountered while building the app.
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
 - [Glide](https://github.com/bumptech/glide) - Image loading and caching library for Android
+=======
+
+>>>>>>> 71a4d71eef1ddf1434c205450031f261de85974b
 
 ---
 
