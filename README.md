@@ -18,7 +18,7 @@
 - [x] Apply the popular ButterKnife annotation library to reduce view boilerplate. (1 point)
 - [x] Add a rounded corners for the images using the Glide transformations. (1 point)
 
-<img src="Video_Walkthrough.gif" width=250><br>
+<img src="V_Walktrough.gif" width=250><br>
 
 ### Notes
 
